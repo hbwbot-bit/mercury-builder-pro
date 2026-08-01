@@ -50,7 +50,7 @@ function pickCTA(category = '', slug = '', variant: CTAVariant = 'banner'): CTAC
     return {
       title: 'Book a boat on Rice Lake',
       description:
-        "Nine boats, live availability, life jackets included. Book online and you're on the water in minutes.",
+        "Live availability, life jackets and safety gear included. Book online to check the current fleet and rates.",
       href: 'https://harrisboatworks.ca/rentals',
       external: true,
       buttonLabel: 'Check Availability',
